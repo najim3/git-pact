@@ -1,2 +1,32 @@
 other changes
 some changes
+commit 3173c0e37175659f76c441bc535de4f2d51744b0
+Merge: d757578 a1f6576
+Author: bulbul <engr.najim3@gmail.com>
+Date:   Thu Sep 29 12:10:19 2022 +0600
+
+    Merge branch 'feature1'
+
+commit d757578c918a8e620ead136222de7c71c896ce26
+Author: bulbul <engr.najim3@gmail.com>
+Date:   Thu Sep 29 12:05:26 2022 +0600
+
+    Fourth file created in the main branch
+
+commit a1f65761de18c3bac8085cb04e2dd6f215718b4c
+Author: bulbul <engr.najim3@gmail.com>
+Date:   Thu Sep 29 11:50:56 2022 +0600
+
+    Third commit in the feature1 branch
+
+commit b5f04195eb429d3b994be9c8d1fe0fab87eba714
+Author: bulbul <engr.najim3@gmail.com>
+Date:   Wed Sep 28 12:31:11 2022 +0600
+
+    changes in the first file
+
+commit fcdbc972c1a8d0ce8a8dc43ff71c0ed975313391
+Author: bulbul <engr.najim3@gmail.com>
+Date:   Wed Sep 28 00:05:27 2022 +0600
+
+    Second file
